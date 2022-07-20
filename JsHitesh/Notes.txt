@@ -1,4 +1,4 @@
--------------------------TO DISPLAY-------------------------
+_________________________TO DISPLAY_______________________________
 console.log(`
     Full Name is: ${fullName}
     email is: ${email}
@@ -7,5 +7,14 @@ console.log(`
 `);
 
 
-------------------------SET PRECISION------------------------
+_________________________SET PRECISIO_______________________________
 Math.round(discountPercent)
+
+
+___________________________FALSY VALUE______________________________
+undefined
+null
+0
+''
+NaN
+// Apart from above all are truthy value
