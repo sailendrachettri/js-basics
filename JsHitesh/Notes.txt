@@ -18,3 +18,15 @@ null
 ''
 NaN
 // Apart from above all are truthy value
+
+
+
+
+
+
+
+
+
+
+
+// contex in js --complected
