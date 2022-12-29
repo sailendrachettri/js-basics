@@ -25,3 +25,7 @@ let naturalNum = [1, 2, 3, 4];
 // console.log(naturalNum);
 // naturalNum.unshift(5); // removes and replace from start
 // console.log(naturalNum);
+
+const {log: print} = console;
+
+print("Hello World!");
