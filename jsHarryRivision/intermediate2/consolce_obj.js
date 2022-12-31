@@ -15,4 +15,5 @@ let obj = {
 console.time("console");
 console.table(obj);
 console.timeEnd("console");
+parseInt
 
